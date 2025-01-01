@@ -42,3 +42,9 @@ python Photo_Conversion.py
 2. Choose a location to save the output image.
 
 - **View the generated sketch in the pop-up window.**
+
+---
+
+## How to run
+**Clone this repository:**
+git clone https://github.com/heatblaze/Photo-Conversion.git
