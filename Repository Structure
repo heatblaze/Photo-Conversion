@@ -1,0 +1,4 @@
+Photo-Conversion/
+|-- main.py                    # Main script for the project
+|-- README.md                  # Project documentation
+|-- sample_images/             # (Optional) Folder for sample input and output images
